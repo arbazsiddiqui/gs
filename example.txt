@@ -1,2 +1,3 @@
 test file inside gs
 update 1
+update 2
